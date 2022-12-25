@@ -43,13 +43,13 @@ const Header = () => {
 
           <div className="nav d-flex align-items-center gap-5">
             <div className="nav__menu" ref={menuRef} onClick={menuToggle}>
-              {/* <ul className="nav__list">
+              <ul className="nav__list">
                 {navLinks.map((item, index) => (
                   <li key={index} className="nav__item">
                     <a href={item.url}>{item.display}</a>
                   </li>
                 ))}
-              </ul> */}
+              </ul>
             </div>
 
             <div className="nav__right">

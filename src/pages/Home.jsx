@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import Header from "../components/Header/Header";
 import HeroSection from "../components/Hero-Section/HeroSection";
-import CompanySection from "../components/Company-section/Company";
+// import CompanySection from "../components/Company-section/Company";
 
 import AboutUs from "../components/About-us/AboutUs";
 import Courses from "../components/Courses-section/Courses";
@@ -11,7 +11,7 @@ import FreeCourse from "../components/Free-course-section/FreeCourse";
 
 import Testimonials from "../components/Testimonial/Testimonials";
 
-import Newsletter from "../components/Newsletter/Newsletter";
+// import Newsletter from "../components/Newsletter/Newsletter";
 import Footer from "../components/Footer/Footer";
 import SonuContact from "../components/Sonu/SonuContact";
 

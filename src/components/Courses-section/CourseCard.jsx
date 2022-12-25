@@ -27,9 +27,9 @@ const CourseCard = (props) => {
             <i class="ri-star-fill"></i> {rating}K
           </p>
 
-          <p className="enroll d-flex align-items-center gap-1">
-            <a href="#"> Enroll Now</a>
-          </p>
+          {/* <p className="enroll d-flex align-items-center gap-1">
+            <a href="https://sonu-kumar-yadav-portfolio-website.vercel.app/"> Enroll Now</a>
+          </p> */}
         </div>
       </div>
     </div>
