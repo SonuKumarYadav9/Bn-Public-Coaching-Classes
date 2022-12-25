@@ -13,7 +13,7 @@ const coursesData = [
     lesson:"From Scratch to Advance Grammar",
     students:30,
     rating: 5.9,
-    imgUrl: courseImg1,
+    imgUrl: courseImg2,
   },
 
   {
@@ -22,7 +22,7 @@ const coursesData = [
     lesson: "From Scratch With all Needed",
     students: 20,
     rating: 7.9,
-    imgUrl: courseImg2,
+    imgUrl: courseImg1,
   },
 
   {
